@@ -1,6 +1,7 @@
 # Jakarta EE
 
 [![Build](../../actions/workflows/build.yml/badge.svg)](../../actions/workflows/build.yml)
+[![Code Quality](../../actions/workflows/code-quality.yml/badge.svg)](../../actions/workflows/code-quality.yml)
 
 Example project to get started with [Jakarta EE](https://jakarta.ee).
 
