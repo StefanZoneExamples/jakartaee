@@ -1,5 +1,7 @@
 # Jakarta EE
 
+[![Build](../../actions/workflows/build.yml/badge.svg)](../../actions/workflows/build.yml)
+
 Example project to get started with [Jakarta EE](https://jakarta.ee).
 
 ## ⚙️ Get Started
