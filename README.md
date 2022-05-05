@@ -68,7 +68,7 @@ The following technologies and tools were used during development.
 
 ## 👷‍ Error Found?
 
-Thank you for your message! Please fill out a [bug report](../../issues/new?assignees=&labels=&template=bug_report.yaml&title=).
+Thank you for your message! Please fill out a [bug report](../../issues/new?assignees=&labels=&template=bug_report.md&title=).
 
 ## License
 
