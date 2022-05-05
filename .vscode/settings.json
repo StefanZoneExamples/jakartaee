@@ -1,0 +1,10 @@
+{
+	"emeraldwalk.runonsave": {
+		"commands": [
+			{
+				"match": "src\\.*",
+				"cmd": "mvn package cargo:redeploy"
+			}
+		]
+	}
+}

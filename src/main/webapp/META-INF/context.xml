@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- See: https://stackoverflow.com/q/66789403#comment118064090_66789403 -->
+<Context antiResourceLocking="true" />
