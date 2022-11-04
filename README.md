@@ -1,7 +1,6 @@
 # Jakarta EE
 
 [![Azure](../../actions/workflows/azure.yml/badge.svg)](../../actions/workflows/azure.yml)
-[![Code Quality](../../actions/workflows/code-quality.yml/badge.svg)](../../actions/workflows/code-quality.yml)
 
 Example project to get started with [Jakarta EE](https://jakarta.ee).
 
